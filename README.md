@@ -1,3 +1,13 @@
+ADDING WITH THIS SYNTAX
+=======================
+openfig('A.fig');
+ 
+print -depsc2 A.eps % color
+ 
+eps2pdf A.eps A.pdf
+===================
+
+
 export_fig
 ==========
 
